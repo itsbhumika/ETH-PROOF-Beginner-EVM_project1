@@ -1,4 +1,5 @@
-# ETH-PROOF-Beginner-EVM_project1
+here assignment2.sol is main file.
+
 We will learn how to create our very own token.
 Here I am going to give a small elaboration, on what my program is going to do.
 
